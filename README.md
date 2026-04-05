@@ -1,52 +1,32 @@
-🕶️ Krest Eyewear
-Welcome to Krest Eyewear! 👓
-We make cool glasses and lenses that help you see clearly and look amazing — just like magic for your eyes!
+🕶️ Krest Eyewear Website
+Luxury Vision. Precision Design. Delivered Countrywide.
 
-💎 What’s Inside
-This is our website!
-It shows:
+This repository contains the official website for Krest Eyewear, a premium eyewear brand offering handcrafted frames and precision lenses.
 
-Our awesome frames (from $3,500)
-Our strong lenses (from $2,500 depending on your eyes)
-How to book your glasses and get delivery anywhere
-A small system that saves our clients and reminds them for a check-up every year 🗓️
-🎨 Colors We Love
-✨ White
-💜 Purple
-🟠 Orange
+💎 Features
+Elegant white, purple, and orange visual palette
+Product listings for frames (from $3,500) and lenses (from $2,500, depending on prescription)
+Secure booking form with prescription upload
+Automatic 1-year check-up reminder for clients
+Client records storage (via browser local storage)
+Fast, lightweight design — HTML, CSS, and JavaScript only
+🌍 Delivery
+Countrywide delivery of authentic Krest frames and lenses, each including:
 
-They make our page bright, warm, and stylish — just like our brand!
-
-🚚 Delivery
-We deliver everywhere in the country!
-Your box comes with:
-
-Krest certificate 🧾
-Cleaning cloth 🧼
-Beautiful case 🎁
-💌 Contact Us
-If you need help: 📧 
-
+Certificate of authenticity
+Luxury case and cleaning kit
+Lifetime lens and frame adjustment support
+📞 Contact
+📧 kresteyewear@gmail.com
 📞 +254 706 409 408
 
-🌐 Where to See Our Website
-When you publish this, it will look like this link:
+🌐 Hosting
+Once the repository is published via GitHub Pages, the site will be live at:
 
 
 
-[your-github-username.github.io](https://your-github-username.github.io/krest-eyewear/)
-(Just change “your-github-username” to your real one.)
+https://<your-username>.github.io/krest-eyewear/
+(Replace <your-username> with your actual GitHub username.)
 
-🧠 Made by:
-Krest Eyewear – the home of beautiful vision 💖
-© 2024 Krest Eyewear. All Rights Reserved.
-
-Would you like me to make a tiny logo and profile picture next so your GitHub page and website look branded?
-
-
-
-
-
-your-github-username.github.io
-1 Sources
-# krest-eyewear
+📅 Author & Ownership
+© 2024 Krest Eyewear – All Rights Reserved.
